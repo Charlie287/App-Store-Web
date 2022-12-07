@@ -1,0 +1,6 @@
+{
+    "require": {
+        "nette/php-generator": "^3.5",
+        "phpmailer/phpmailer": "^6.4"
+    }
+}

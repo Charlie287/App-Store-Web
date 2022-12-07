@@ -1,0 +1,5 @@
+1. Thư mục này (source) bắt buộc phải có 3 tập tin: index.php, main.js, style.css
+2. Mọi javascript phải được đặt trong main.js 
+3. Mọi css phải được đặt trong style.css
+4. Các thư mục còn lại, ví dụ controllers, models, views sẽ là nơi lưu các nội dung khác (code, ảnh, video...)
+5. Không nhất thiết phải có thư mục controller, models và views như trong ví dụ này.
